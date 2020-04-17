@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>https://yanguixun.github.io.git/about/index.html</loc>
-    
-    <lastmod>2020-04-15T08:11:36.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yanguixun.github.io.git/gallery/index.html</loc>
     
     <lastmod>2020-04-15T08:11:36.000Z</lastmod>
@@ -23,14 +16,7 @@
   </url>
   
   <url>
-    <loc>https://yanguixun.github.io.git/letter/index.html</loc>
-    
-    <lastmod>2020-04-15T08:11:36.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yanguixun.github.io.git/records/content.json</loc>
+    <loc>https://yanguixun.github.io.git/about/index.html</loc>
     
     <lastmod>2020-04-15T08:11:36.000Z</lastmod>
     
@@ -45,6 +31,20 @@
   
   <url>
     <loc>https://yanguixun.github.io.git/records/index.html</loc>
+    
+    <lastmod>2020-04-15T08:11:36.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yanguixun.github.io.git/letter/index.html</loc>
+    
+    <lastmod>2020-04-15T08:11:36.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yanguixun.github.io.git/records/content.json</loc>
     
     <lastmod>2020-04-15T08:11:36.000Z</lastmod>
     
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://yanguixun.github.io.git/extension/resume/english/data.json</loc>
+    <loc>https://yanguixun.github.io.git/extension/letter/chinese/data.json</loc>
     
     <lastmod>2020-04-15T08:11:36.000Z</lastmod>
     
@@ -93,14 +93,14 @@
   </url>
   
   <url>
-    <loc>https://yanguixun.github.io.git/extension/letter/chinese/data.json</loc>
+    <loc>https://yanguixun.github.io.git/extension/resume/chinese/data.json</loc>
     
     <lastmod>2020-04-15T08:11:36.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yanguixun.github.io.git/extension/resume/chinese/data.json</loc>
+    <loc>https://yanguixun.github.io.git/extension/resume/english/data.json</loc>
     
     <lastmod>2020-04-15T08:11:36.000Z</lastmod>
     
